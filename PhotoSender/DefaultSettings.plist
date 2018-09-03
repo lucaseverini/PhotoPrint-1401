@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultSettingsSet</key>
+	<false/>
+	<key>ToEmailPreference</key>
+	<string>ibm1401print@gmail.com</string>
+	<key>FromEmailPreference</key>
+	<string>lucaseverini@gmail.com</string>
+	<key>RelayHostPreference</key>
+	<string>smtp.gmail.com</string>
+	<key>LoginPreference</key>
+	<string>lucaseverini@gmail.com</string>
+	<key>PasswordPreference</key>
+	<string>babbo1934</string>
+	<key>RequiresAuthPreference</key>
+	<true/>
+	<key>WantsSecurePreference</key>
+	<true/>
+	<key>AddressPreference</key>
+	<string>255.255.255.255</string>
+	<key>PortPreference</key>
+	<string>25000</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+//
+//  Prefix.pch
+//  1401-PhotoPrinter
+//
+//  Created by Luca Severini on 3/16/15.
+//  Copyright (c) 2015 Sommly. All rights reserved.
+//
+//  Prefix header for all source files in the project
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+	#include <sys/utsname.h>
+	#include <stdio.h>
+	#include <stdlib.h>
+	#include <sys/types.h>
+	#include <sys/sysctl.h>
+	#include <sys/time.h>
+	#include <mach/mach.h>
+	#include <objc/runtime.h>
+
+	#import "Macros.h"
+
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import <CoreLocation/CoreLocation.h>
+	#import <MessageUI/MessageUI.h>
+	#import <QuartzCore/QuartzCore.h>
+
+	#import "Fabric/Fabric.h"
+	#import "Crashlytics/Crashlytics.h"
+	#import "SVProgressHUD.h"
+	#import "NSData+Base64Additions.h"
+
+	#import "AppDelegate.h"
+#endif
+
+
+

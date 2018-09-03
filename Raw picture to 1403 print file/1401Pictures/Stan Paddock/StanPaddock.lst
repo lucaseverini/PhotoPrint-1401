@@ -1,0 +1,681 @@
+S             --------------------------------------=XOOOOA+--------------------------------------------------------------=OOOOOOOO
+S                                                     ++++                                                                 +XXXXXXX
+S                                                     ****                                                                  *******
+S                                                      ...                                                                  .......
+S                                                      --                                                                   HHHHHHH
+S                                                                                                                           CBBBBBB
+S                                                                                                                                  
+                                                                                                                                   
+S             -------------------------------------+XOOOOOOOM=------------------------------------------------------------XOOOOOOOO
+S                                                    +++++++                                                               +XXX+XXX
+S                                                    *******                                                               ********
+S                                                     ......                                                               ........
+S                                                     -===-                                                                =HHH=HHH
+S                                                                                                                           BBC BBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOI----------------------------------------------------------=OOOOOOOOO
+S                                                  -++++++X+++                                                            +XXXXXXXX
+S                                                   **********                                                             ********
+S                                                    ........                                                              ........
+S                                                    ----=H=-                                                              HHHHHHHH
+S                                                         C                                                                CBCCBBBB
+S                                                                                                                               V  
+                                                                                                                                   
+S             -----------------------------------+OOOOOOOOOOOOOM=--------------------------------------------------------AOOOOOOOOO
+S                                                 -+++++++++X++                                                           +XXXXXXXX
+S                                                  ************                                                           *********
+S                                                   ...........                                                           .........
+S                                                    -----==H=-                                                           -HHHHHHHH
+S                                                           C                                                              BBBCBBBB
+S                                                                                                                                 V
+                                                                                                                                   
+S             -----------------------------------IOOOOOOOOOOOOOOO=------------------------------------------------------+OOOOOOOOOO
+S                                                 =+++++++++++++-                                                        +XXX+XXXXX
+S                                                  *************                                                          *********
+S                                                   ............                                                          .........
+S                                                    --------==-                                                          HHH=HHHHH
+S                                                                                                                         CBB CBCBB
+S                                                                                                                                 V
+                                                                                                                                   
+S             ----------------------------------=OOOOOOOOOOOOOOOOX------------------------------------------------------ZOOOOOOOOOO
+S                                                -+++++++++++++++                                                        +XXXXXXXXX
+S                                                 ***************                                                        **********
+S                                                  ..............                                                        ..........
+S                                                   -----------=-                                                        -HHHHHHHHH
+S                                                                                                                         BBBCCBBCB
+S                                                                                                                          V       
+                                                                                                                                   
+S             ----------------------------------)OOOOOOOOOOOOOOOOO)-----------------------------------------------------OOOOOOOOOOO
+S                                                +++++++++++++++++                                                      -+XXXXXXXXX
+S                                                 ****************                                                       **********
+S                                                 ................                                                       ..........
+S                                                   ------------=-                                                       =HHHHHHHHH
+S                                                                                                                         BBBCBBBCB
+S                                                                                                                          V       
+                                                                                                                                   
+S             ----------------------------------IOOOOOOOOOOOOOOOOOO----------------------------------------------------+OOOOOOOOOOO
+S                                                +++++++++++++++++-                                                     +XXXXXXXXXX
+S                                                 ****************                                                      ***********
+S                                                 ................                                                       ..........
+S                                                  -----==------==                                                       HHHHHHHHHH
+S                                                                                                                        CCBBBBBBBB
+S                                                                                                                           VVV V  
+                                                                                                                                   
+S             ----------------------------------)OOOOOOOOOOOOOOOOOOI-------------------------------------------------=+OOOOOOOOOOOO
+S                                                =+++++++++++++++++                                                    -+XXXXXXXXXX
+S                                                 *****************                                                     ***********
+S                                                  ................                                                     ...........
+S                                                  -----=-==-----=-                                                     -HHHHHHHHHH
+S                                                                                                                        CBBBBBBBBB
+S                                                                                                                            VV   V
+                                                                                                                                   
+S             ----------------------------------=MOOOOOOOOOOOOOOOOOO---------------------------------------=ZOOOOOOOOOOOOOOOOOOOOOO
+S                                                 +++++++++++++++++=                                         -----=-==-+XXXXXXXXXXX
+S                                                  ****************                                                    ************
+S                                                  ................                                                    ............
+S                                                   ---==--=------=                                                    -HHHHHHHHHHH
+S                                                                                                                       CBBBBBBBBBB
+S                                                                                                                              VVVV
+                                                                                                                                   
+S             -----------------------------------IOOOOOOOOOOOOOOOOOO+-------------------------------------+OOOOOOOOOOOOOOOOOOOOOOOO
+S                                                 -+++++++++++++++++                                       +++X+XXX+X++XXXXXXXXXXXX
+S                                                  *****************                                        ***********************
+S                                                   ................                                        .......................
+S                                                   ---==-===-----=-                                        -=H=HHH=H==HHHHHHHHHHHH
+S                                                                                                             C CCC C  CBBBBBBBBCBB
+S                                                                                                                          V  VV   
+                                                                                                                                   
+S             -----------------------------------=ZOOOOOOOOOOOOOOOOOA-----------------------------------=MOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -++++++++++++++++                                      +XXXXXXXXXXXXXXXXXXXXXXXX
+S                                                   ****************                                      *************************
+S                                                   ................                                      .........................
+S                                                    =--=-==-------=                                      -HHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                          CCCCCCCCCBBBBBCBBBBBBCBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ------------------------------------)MOOOOOOOOOOOOOOOOO---------------------------------=ZOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                   +++++++++++++++++                                   ++XXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                    ****************                                   ***************************
+S                                                    ...............                                     ..........................
+S                                                    -=-=-==-------=                                     =HHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                         CCBCCCBCCBBCBCBBBBBBBBBBB
+S                                                                                                                           VV     
+                                                                                                                                   
+S             ------------------------------------+MOOOOOOOOOOOOOOOOO)-------------------------------=OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                   -++++++++++++++++                                 ++XXXXX+XXXXXXXXXXXXXXXXXXXXX
+S                                                    ****************                                  ****************************
+S                                                    ................                                  ............................
+S                                                     =====----------                                  =HHHHH=HHHHHHHHHHHHHHHHHHHHH
+S                                                                                                       BCCBB BBBBBBBBBCBBBBBBBBBBB
+S                                                                                                              V    V   VV   V  V  
+                                                                                                                                   
+S             ------------------------------------+MOOOOOOOOOOOOOOOOOO------------------------------+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                   -+++X++++++++++++=                               =+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                     ***************                                 *****************************
+S                                                     ...............                                 .............................
+S                                                     -=H=-==-=-----=                                 =HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                       C                                              BCBCBBCBBCCCBBBBBBBBBBBBBBBB
+S                                                                                                                     V  VV   V VV 
+                                                                                                                                   
+S             ------------------------------------+OOOOOOOOOOOOOOOOOOOZ----------------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  ---++XX++++++++++++                              ++XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                     ****************                              *******************************
+S                                                      ...............                               ..............................
+S                                                      =HH=-----------                               =HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                       CC                                            BBBBBBBBBBBBBCBBBBBBBBBBBBBBB
+S                                                                                                         V            VVV V       
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOO+--------------------------=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  ---=+XX+++++++++++++                            =+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                      ***************                              *******************************
+S                                                      ...............                              ...............................
+S                                                      -HH=----------=                              =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                       CB                                           BBBBBBBBBBBBBBBBBBBBBBBCCBBBBB
+S                                                                                                       V      VV  VVVV VVV   VVVVV
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOZ=-------------------------XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -===++XX++++++++++++                            +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                      ****************                            ********************************
+S                                                       ...............                            ................................
+S                                                       =HH=--=------=-                            =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                        CC                                         CCBBBBBBBBBBBBBBBBBBBBBBCCBCBBB
+S                                                                                                      VV      VV   V V  V         
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOOI)====-------------------+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -=+=+++XX++XXXX+++++=                          +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                       ***************                           *********************************
+S                                                       ...............                           .................................
+S                                                       -=HH==HHHH==--=                            HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         CC  CCCC                                 CCCBBBBBBBBBBBBBBBBBCCBBBBBBBBBB
+S                                                                                                            VV   V V     VVV   V  
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOX+=---------------XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  --++=++XXXXX++++X++++++++++=                   +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                       **********************                    *********************************
+S                                                       ................   ...                    .................................
+S                                                        =HHHHH====H=-=-                          =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         BBCCB    C                               CBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                       VV  VVVV  V V     VVV V V  
+                                                                                                                                   
+S             ------------------------------------+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOZ=-----------=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -=+++++XXXXX+++++++++++++++++++-              +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                       ***************** ********                *********************************
+S                                                        ...............   ......                 .................................
+S                                                        -HHHHH==---=---    -===-                 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         BBCCC                                   BCCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                           V VVVVVVV     V  V     
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMZ)=-----+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -=+++++XXXXX+++++++=------++++X+++++          +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                     * **************        ********           **********************************
+S                                                        ............         .......            ..................................
+S                                                        -HHHHH=-----         --=H=-             -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         CBCCC                  C                CBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                       VV VV VVVVVVVVVVV     V  V 
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOZ----IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -++++++XXXXX+++++++++--====+++++++++++++      +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                    **  *************         ************      **********************************
+S                                                        .............          ..........       ..................................
+S                                                        -HHHHH------            ----====-       -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         CBCCC                                   BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                     V V  V   V  V VVV V  V  V    
+                                                                                                                                   
+S             ------------------------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO)===IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -++++=++XXX+++++++++++==-----+==+++++++++     +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                   **   ***************              *****      **********************************
+S                                                        ..............                ....      ..................................
+S                                                         =HHH=- ------                -===      -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                          BBC                                    CBBBBBBBBBBBBBBCBBBBBBBBBBBBBBBBC
+S                                                          V                                           VV   V      VVV   VVVVVV V  
+                                                                                                                                   
+S             ------------------------------====))XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOXZ)+IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                  -++++=+XXXX+++++++++++++=====++=----=+X+=     +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                   **** *************  **              ***       *********************************
+S                                                    .   ............   ..              ...       .................................
+S                                                         HHHH=-----                    -H=       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                         CBBC                           C        CCBCBBBBBBBBBBBBBBBBBBBBBBBBBBBBC
+S                                                          V                                          VVV  VV    VVVV V VVVVVVV V  
+                                                                                                                                   
+S             -------------------------=)XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                         --=-++++==+++++++XXXX+++++++++++++++++++++++++++++++=- -+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                              ***   *** ****************************  *******    *********************************
+S                                               .    ..   ...................   ..      .....     .................................
+S                                                         =HHHH=-----   --              -==--     =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                          CBCC                                    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                           VV V VVVV V VVVVVVV  V 
+                                                                                                                                   
+S             ------------------------IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                      -=+++++++++++++++=++XX++++++++++++++++++++++++++++++XXX+++++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                        *********   *** **************************************************************************
+S                                        .........   .    ....................................... .................................
+S                                         -------         -HH===------------------------===HHH==- =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                          BC                              CBC     BBBBBBBBBBBBBCBBBBBBBBBBBBBBBBBB
+S                                                                                                             V     V VVVV V       
+                                                                                                                                   
+S             ----------------------IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                    -++++++++++++++++++==+XX++++++++++++++++++++++++++++++++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                        ********    ***  *************************************************************************
+S                                          .....      .   .........................................................................
+S                                            - -          -HH=-------------- ---- - --- ----=HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                          BC                                CCCCCBBBBBBBCBCCBBBBCBBBBBBBBBBBBBBBBB
+S                                                                                                             V     V VVV VV VVVV  
+                                                                                                                                   
+S             --------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                  -+++++++++++++=+++++++=+XX++++++++++++++++++++++++++++++++++++++XXXXXXX+++XXXXXXXXXXXXXXXXXXXXXX
+S                                   *** *********    ***  *********  ******************    ****************************************
+S                                    .     .....      .   ........           .. .           .......................................
+S                                    -        --          -HH---                            --=====HHHHHHH===HHHHHHHHHHHHHHHHHHHHHH
+S                                                          CC                                      BBCBBBC   CBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                              V  VVVVV   VVVVVV   
+                                                                                                                                   
+S             -------------------+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                 -++++++++++++++=+++++++=++++++++++==+++++++++++++++===----++++X+++++XXXX+X++XXXXXXXXXXXXXXXXXXXXX
+S                                   *************  * ***  *******         ** ******          **************************************
+S                                   ..     .....          ......                              .....................................
+S                                           ----           ==---                              --H=---=HHHH=H==HHHHHHHHHHHHHHHHHHHHH
+S                                                                                               C     CCCB C  CBBBBBBBBBBBBBBBBBBBB
+S                                                                                                              V VVVVVV   V VVVV VV
+                                                                                                                                   
+S             ------------------)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                -=++++++++++++++=++++++=+++X++++++=====++++=====+++++==--  --+++++++++++++++++++XXXXXXXXXXXXXXXXXX
+S                                  ************** ******  ******                               ************************************
+S                                   ..     .....   .      .....                                 ...................................
+S                                           ---=   -       =H-                                  -===----==-----==HHHHHHHHHHHHHHHHHH
+S                                                           C                                                    CBBCBBBBBBBBBBBBBB
+S                                                                                                                               VVV
+                                                                                                                                   
+S             -----------------IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                               -++++++++++++++++++++++++=++X++==+++=-=+===-=-----====----------++++++++++++++++++XXXXXXXXXXXXXXXXX
+S                                  ***    ******* **** *  ****    *                              **********************************
+S                                  ...     .....  ..      ....                                   ..................................
+S                                   -      ---==   -       =H-                                    -===------------HHHHHHHHHHHHHHHHH
+S                                                           C                                                     CCBBBBBBBBBBBBBBB
+S                                                                                                                      VVVVVV   VV 
+                                                                                                                                   
+S             ---------------=ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                              -++++++++++++++++++++++++++++X+=-=+++--==------------=-------------++++++++++++++++++XXXXXXXXXXXXXXX
+S                               ********  ******* *****   ****   **                                ********************************
+S                                .....     .....   .       ...    .                                ................................
+S                                  ---      --=-   -       -H-    -                                 --=------------=HHHHHHHHHHHHHHH
+S                                                           C                                                       BBBBBBBBBBBBBBB
+S                                                                                                                      V  VVV VV   
+                                                                                                                                   
+S             --------------=XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                             ++++++++++++++++++++++++++++++++=-++++-------     ---------  --------=+++++++++++++++++XXXXXXXXXXXXXX
+S                              ****************** ******  ****   **                                  ******************************
+S                              .......     .....   ....    ...   ..                                   .............................
+S                                   -       --=-   -       ---   --                                   ---===----   -=HHHHHHHHHHHHHH
+S                                                                                                                    CCCBBBBBBBBBBB
+S                                                                                                                        VVVV     V
+                                                                                                                           A       
+S             -------------=AOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOOAXXAMOOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                            ++++++++++++++++++++++++++++++++++-+++=-  ----     -----------  --+====+++++++++++++++++X+XXXXXXXXXXXX
+S                             *************************   ****   **                                   *****************************
+S                             .......    .......  ....     ...   ..                                    ............................
+S                                   -       --=-  ---       --   --                                     ---==---    -H=HHHHHHHHHHHH
+S                                                                                                                    C CBBBBBBBBBBB
+S                                                                                                                         VVVVV VVV
+                                                                                                                                   
+S             -------------ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOMAXXXAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                           +++++++++++++++++++++++++++++++++++-+++=-  --      ----=-----------=++++++++++++++++++++++XXXXXXXXXXXXX
+S                           ********************* ****** ****** ***                              **********************************
+S                            .........   .......  .....    ...   ..                                .. .............................
+S                             -  ---        --=-  -=-       --   --                                    -- ----=----- -HHHHHHHHHHHHH
+S                                                                                                                     CBBBBBBBBBBBB
+S                                                                                                                        VVV VV VVV
+                                                                                                                                   
+S             ------------IOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOAXXAMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                          =+++++++++++++++++++++++++++++++++++-+++-  ---      ---==-==+=-====--=++++++++++++++++++++++XXXXXXXXXXXX
+S                           ********************  ******** **** ***                                ********************************
+S                           ........ ... . .....  ........ ....  .                                  ...............................
+S                           -------        -----  -- --     --                                      ------------- - ---HHHHHHHHHHHH
+S                                                                                                                      BBBBBBBBBBBB
+S                                                                                                                        VVVVVV V  
+                                                                                                                                   
+S             -----------=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMAAMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                         =++++++++++++++++++++++++++++++++++++++++------     ---==---+++===++=---=+++++++++++++++++++++XXXXXXXXXXX
+S                          *********************  *************  *                    **            *************** ***************
+S                          ..............  .....  ........  ...                                      ............    ..............
+S                          ---------         ---  -- ----   ---                                       ----------      -=HHHHHHHHHHH
+S                                                                                                                       BBBBBBBBBBB
+S                                                                                                                        V   VV V  
+                                                                                                                                   
+S             ----------=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                        -++++++++++++++++++++++++++++++++++++++===------------===---=++-=+++++=--===++++++++++++++++++++XXXXXXXXXX
+S                         ***************  ** ************* ****                      **                *********   ***************
+S                         ...........          .  ........  ...                                         ........       ............
+S                         ----------              --  --     -=                                         -------        -=HHHHHHHHHH
+S                                                                                                                        BBBBBBBBBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ----------ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                        ++++++++++++-----=++--==+++++++++++++++==+-------+++++==----+++-+++++++----====++++++++++==+++++XXXXXXXXXX
+S                        **********        *      *********  ***           **         *   *   *          ********     *************
+S                         .........               ........   ...                                         .......       ............
+S                         ---   -                 -----      -=                                           ------        -HHHHHHHHHH
+S                                                                                                                        CBBBBBBBBB
+S                                                                                                                                VV
+                                                                                                                                   
+S             ---------=OOOOOOOMOOMMAAAAXXMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                       =+++--- --         -==---+++++++++++=++++==-=-=+=+++++==-----++---+++++=----===--++++++++++==+++++XXXXXXXXX
+S                        ***                      *********  ***          **                              ********    *************
+S                        ...                      .........   ..          .                               .......      ............
+S                        --                       ----        --                                          ------        -=HHHHHHHHH
+S                                                                                                                         BBBBBBBBB
+S                                                                                                                          VV V VVV
+                                                                                                                                   
+S             ---------=OOOOMAXZZXXXXXXXZZXMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMXOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                       +++-                -++=-+++++++++++=+++++=+++++++++++-------=+  -===--=----==---=++++++++++=+++++XXXXXXXXX
+S                       ***                       *********  ****     *******                             ********     ************
+S                        ..                       .........   ..          ..                              .......        ..........
+S                        --                       ----  -     --           -                               - ---         -HHHHHHHHH
+S                                                                                                                         BBBBBBBBB
+S                                                                                                                          VVVVVVVV
+                                                                                                                                   
+S             ---------+OOOOMAXZZIZAAAAAXXZAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMOOOOOXZMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                       +++=                -=++=++++++++++++=+++++++++++++++++-- -----   ----------------++++++++===+++++XXXXXXXXX
+S                       ***                   *   **********  ************** *                             *******     ************
+S                        ..                       .........   ...   .....                                  .. ...        ..........
+S                        --                       --=-  -     -=-                                                        -HHHHHHHHH
+S                                                                                                                         CBBBBBBBB
+S                                                                                                                          V VVVVVV
+                                                                                                                                   
+S             ---------+OOOOOMXXZZAAAAAMMAZAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMAXXAOAIIZXMOOOOOOOOMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                       ++++-               --+++++++++++++++-+++++++++++=---=+-     -      --------    --=+++++++=-=+++++XXXXXXXXX
+S                       ***                    *  **********  ***  *****                                   **  *        ***********
+S                        ..                       ........    ...    ..                                                  ..........
+S                        --                       -==-        -=     --                                                  -HHHHHHHHH
+S                                                                                                                         CBBBBBBBC
+S                                                                                                                          V VV    
+                                                                                                                                   
+S             ---------=OOOOOXXXXXMMAMAAAXZMOMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMAOOOMXXZZOMIIIZZOMAOOOMMMAXMOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                       =+++-               - -++++++++++++++=+++--=+++=---  -=-     -      -  ---      ---++++++=---==+++XXXXXXXXX
+S                        **                     * *********** ***                                                       ***********
+S                        ..                       .........    .                                                         ..........
+S                         -                       -==--        -                                                         -HHHHHHHHH
+S                                                                                                                         CBBBBBBBC
+S                                                                                                                            VVVV  
+                                                                                                                                   
+S             ----------AOOOOZZMMMMOMMMAMMXMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAXOOOMXZZZMMI)IIZOOMOOOMMMXXAOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                        +++-      -        ---++++++++++++++=+++=--====---  ---            -- ---      ---+=====-----=+++XXXXXXXXX
+S                        ***                    * ***********  **                                                       ***********
+S                         .                       .....  ....  .                                                        ...........
+S                                                 -==--        -                                                         -HHHHHHHHH
+S                                                                                                                         CBBBBBBBB
+S                                                                                                                            VV VVV
+                                                                                                                                   
+S             ----------=OOOAZAOOOOOOOMXMOAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOMAXXXMX))IIXOOOOOOOMMAXAOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                        -++   -------   - -++=++++++++++++++==++++++++==--  ---            -------     --=+======----=++XXXXXXXXXX
+S                                               *************  ***  *                                                  ************
+S                                                 .....  ....  ..                                                       ...........
+S                                                  ==--        --                                                       -HHHHHHHHHH
+S                                                                                                                        CBBBBBBBBB
+S                                                                                                                          VV V VVV
+                                                                                                                                   
+S             -----------+OOAZXOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMOMZIZZMOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                         --   --====-  ----++++++++++++++++++=++++++++++=-------    -      =---------  --=+=++==----=+++XXXXXXXXXX
+S                                           *****************  ****** *                                                ************
+S                                            ...........    .  ...                                                     ............
+S                                            ----  ===-        --                                                      --HHHHHHHHHH
+S                                                                                                                        BBBBBBBBBB
+S                                                                                                                         VVVVV VVV
+                                                                                                                                   
+S             ------------ZMXZXOOOOOOOOMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOXZMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                              -++++=-- ----++++++++++++++++++=++++++=====++==---------   -=--------------++=+++=----=+++XXXXXXXXXX
+S                                           *****************  ****                                                   *************
+S                                           ............. .    ..                                                      ............
+S                                           --==---===--       --                                                       =HHHHHHHHHH
+S                                                                                                                        BBBBBBBBBB
+S                                                                                                                          VVVV VV 
+                                                                                                                            A      
+S             ------------IMAXAOOOOOOOOMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOAAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                              -=++++=- ----+++++++++++++++++=-+++===-----++=------  --  -+=--------------+++++======+++XXXXXXXXXXX
+S                                 *         *****************  **                                          *          *************
+S                                           ............. ..   ..                                                      ............
+S                                           --===---==--       --                                                      -HHHHHHHHHHH
+S                                                                                                                       CBBBBBBBBBB
+S                                                                                                                          V  VVVVV
+                                                                                                                                   
+S             ------------)MMMOOOOOOOOOMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                             ----+++=-    -++++X+++++++++++++=+++=--------===-----  -+-=++=------------=++++++++==+++++XXXXXXXXXXX
+S                                           ****** **********  **                        *                ***        **************
+S                                           ......  .........  ..                                          .          .............
+S                                            -==H-  ==-        --                                                      -HHHHHHHHHHH
+S                                               C                                                                       BBBBBBBBBBB
+S                                                                                                                             VVVVV
+                                                                                                                                A  
+S             ------------=XMOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                            ----=++++-  ---+++X+++++++++++++==++=-------  -----------++++=------------=++++++++++++++++XXXXXXXXXXX
+S                                  **       *****************  **                      ***               ***       ****************
+S                                           ................   ..                                        ..         ...............
+S                                            ==H=- --=---      --                                                    --=HHHHHHHHHHH
+S                                              C                                                                        BBBBBBBBBBB
+S                                                                                                                       V  VVVVVVVV
+                                                                                                                                   
+S             ------------=XMAMOOOOOOOOMAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOAXXMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                              --=+++=-  ---+++++++++++++++++=++++-------      -------+++=-----------=+++++++++++++++++XXXXXXXXXXXX
+S                                           ***************** ***                      *                ***   *********************
+S                                            ...............   ..                                                 .................
+S                                            -====---=------   =-                                                   ---HHHHHHHHHHHH
+S                                                                                                                      BBBBBBBBBBBB
+S                                                                                                                          V  VVVVV
+                                                                                                                                A  
+S             ------------=ZMOMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMOOMAZZXAMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                            - -==+=------==+++++++++++++++++++++++-- --       --------=-----------=+++++++++++++++++++XXXXXXXXXXXX
+S                                            **************** *****                                      * ************************
+S                                            ...............  ....                                            .....................
+S                                             ----- -==-----  ----                                              ---- -=HHHHHHHHHHHH
+S                                                                                                                      BBBBBBBBBBCC
+S                                                                                                                          V   VV  
+                                                                                                                                   
+S             ------------=XOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMOOMAZZZXXMOOOOOOOOMAAMMXMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                           -  ----------==-=++++++++++++++++++++++=- --        --------       --------=++++++++++++++XXXXXXXXXXXXX
+S                                            ***************  *****                                      **************************
+S                                             ....  ........  .....                                       .........................
+S                                             ---    -==---   --                                            - -----  =HHHHHHHHHHHHH
+S                                                                                                                     BBCBBBBBBBBCB
+S                                                                                                                           V      
+                                                                                                                                   
+S             ------------=MOMMOMOOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMXZZZXAMOOOOOMMAXZXXAMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                           -  - ----  --=--=+++++++++++++++=++++++=-----        -----         -------=++++++++++++++XXXXXXXXXXXXXX
+S                                             ****  ******** ******                                     ***************************
+S                                             ....   ......  ......                                      ..........................
+S                                              ---   -=----   -  -                                       ---------- -HHHHHHHHHHHHHH
+S                                                                                                                    BCCBBBBBBBBCCB
+S                                                                                                                         VVV      
+                                                                                                                                   
+S             ------------=MOMMOMMOOMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMAAXAMMMOMOOOMAZZXXMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                           -  -  --   ------++++++=+++++++++++==++=-----         - ---           ---+++++++++++++++XXXXXXXXXXXXXXX
+S                                             ****   ******* **  **                                   *****************************
+S                                              ...   ......  ..                                       .............................
+S                                              -=-    -----  --                                         --------   -HHHHHHHHHHHHHHH
+S                                                                                                                   BBBBBBBBBBBBBBB
+S                                                                                                                        VVVVVV VV 
+                                                                                                                                   
+S             -------------IMMMMMMOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMAMMMMOOOMMAXXAAMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                 --  -------++++++=+++++++++++--++=--------       ---           -=++++++++++++++++XXXXXXXXXXXXXXXX
+S                                             *****  ****** ***  **                                ********************************
+S                                              ...   ......  ..   .                                 ...............................
+S                                              -=-    ----   --                                       --------   -=HHHHHHHHHHHHHHHH
+S                                                                                                                  BBBBBBBBBBBBBBBB
+S                                                                                                                    VV  VVVVVVVVVV
+                                                                                                                                   
+S             --------------=)XAMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMOOOOOOOAMMMAXAMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                  ---------++++++++=++++++++++---------=----  -------        --++++++++++++++++++XXXXXXXXXXXXXXXXX
+S                                             *****  ****** ***                                  **********************************
+S                                             .....   ....   ..                                  ..................................
+S                                              -==     ---   --                                    -- -----------=HHHHHHHHHHHHHHHHH
+S                                                                                                                 BBBBBBBBBBBBBBBBB
+S                                                                                                                    V   VV   VVV V
+                                                                                                                                   
+S             ----------------==)IIIZAAMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMAXXAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                         ---=+++++==+++++++++++----------------------      --=+++++++++++++++++XXXXXXXXXXXXXXXXXXX
+S                                             *****  *****  ***                                ************************************
+S                                              ....   ....   ..                                 ...................................
+S                                              -==-    --    --                                 --------=====-==HHHHHHHHHHHHHHHHHHH
+S                                                                                                               CCBBBBBCBBBBBBBBBBB
+S                                                                                                                        VV   VV  V
+                                                                                                                                   
+S             ------------------------=)ZAMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                           ---+++++-+++++++++++==------------------      ---+++++++X+XXXXX+X+XXXXXXXXXXXXXXXXXXXXX
+S                                               ***   ****  ****                              *************************************
+S                                               ...    ..    ..                               .....................................
+S                                               ---          --                                --===H=HHHHH=H=HHHHHHHHHHHHHHHHHHHHH
+S                                                                                                   C CCCCC C CBBCBBBBBBBBBBBBBBBBB
+S                                                                                                                        VVVVVVVV  
+                                                                                                                                   
+S             ---------------------------=IXMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                            ---++++=-+++==+++++++===--=----------------------++XXXXXXXXXXX+XXXXXXXXXXXXXXXXXXXXXXX
+S                                                ***   **   *****                              ************************************
+S                                                ..    ..   ...                                ....................................
+S                                                --          --                                =HHHHHHHHHHH=HHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                               CBBCBCCCCBC CBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                              V     VV  VVVVV V   
+                                                                                                                            A      
+S             -----------------------------=)ZMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOZ+=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                               -=+++--+++=++++++++++++=====----------====-   -+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                 **   **   *******                            ************************************
+S                                                  .        .... .                             ....................................
+S                                                            --                                -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                               CCCCCCCBBBCCBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                                    VV  VVVVV VV  
+                                                                                                                                   
+S             --------------------------------=)ZAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO+-=ZOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                 -=+---==++++++++++++++==-------------++++    ++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                           ***********                ***     ************************************
+S                                                           .....                       ..     ....................................
+S                                                            ---                        --     -=HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                CCBCCBBBBCBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                                    VV   VVVV  VVV
+                                                                                                                                   
+S             -----------------------------------=)ZMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMAXXOOOX=--=OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                    -----++++++++===+++++--------     -++     =++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                         *******     **                *       ***********************************
+S                                                           .....                       .       ...................................
+S                                                           -==-                                -=HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                       V     V V   V V VV VVV   VV
+                                                                                                                                   
+S             --------------------------------------=)IXOOOOOOOOOOOOOOOOOOOOOMMMOMXXXXXZZ+-----)OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                       --+++++++=-----==----   -               ++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                          ******                               ***********************************
+S                                                          .....                                 ..................................
+S                                                           -==-                                 =HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                 CCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+S                                                                                                             V     V  VVVV   VVVVV
+                                                                                                                                 A 
+S             -----------------------------------------+ZOOOOOOOOOOOOOOOOMMMMAXAOMXZII)=--------XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                        -++++++++=------       -                +XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                          ******                                **********************************
+S                                                          ......                                ..................................
+S                                                           ===-                                 -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                 CCCBCBCCCBCCBBBBBCBBBBBBBBCBBBBBB
+S                                                                                                                       VV    VVVVV
+                                                                                                                                   
+S             -----------------------------------------+MOOOOOOOOOOOOOOOOOOOOMAMOMI=-------------XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                        ++++++++++++--------   -                 +++++XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                         **********                              *********************************
+S                                                          .......                                .................................
+S                                                          -====--                                 ====HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                      CCBBBCCCBBBBCBBBBBBBBCBBBBBB
+S                                                                                                                              VVV 
+                                                                                                                                   
+S             -----------------------------------------IOOOOOOOOOOOOOOOOOMMOOOOOM+----------------=XOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                       -++++++++++++=---  -----                    +++++XXXXXXXXXXXXXXXXXXXXXXXXXX
+S                                                         ***********                               *******************************
+S                                                         ..........                                 ..............................
+S                                                          ----===--                                 --==HHHHHHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                        CCCCCCBBCBBBBBBBBCBBBBBBBB
+S                                                                                                                    VVV           
+                                                                                                                                   
+S             ----------------------------------------=XOOOOOOOOOOOOOOOOOOOOOOOZ=-------------------=)OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                       -++++++++++++++++===++=                       -=+++++XXXXXXXXXXXXXXXXXXXXXX
+S                                                        **************      *                          ***************************
+S                                                         ............                                  ...........................
+S                                                         -=----=-=--                                    --==HHHHHHHHHHHHHHHHHHHHHH
+S                                                                                                            CCBBBBBBBBBBBCCBBBBBBB
+S                                                                                                                            VV VVV
+                                                                                                                                   
+S             ----------------------------------------)OOOOOOOOOOOOOOOOOOOOOOOM------------------------=+IAOOOOOOOOOOOOOOOOOOOOOOOO
+S                                                      -=+++++++++++++++++++++                             =+++XXXXXXXXXXXXXXXXXXXX
+S                                                        *********************                              ***********************
+S                                                         ............... ....                              .......................
+S                                                         ---  -=-------    -                               --=HHHHHHHHHHHHHHHHHHHH
+S                                                                                                              CCBBBBBCBBBBBBBBBBBB
+S                                                                                                                             VVVV 
+                                                                                                                                   
+S             ---------------------------------------=ZOOOOOOOOOOOOOOOOOOOOOOO=----------------------------=IOOOOOOOOOOOOOOOOOOOOOO
+S                                                      -+++++++++++++++++++++=                               =+++XXXXXXXXXXXXXXXXXX
+S                                                       *********************                                 *********************
+S                                                        ....................                                 .....................
+S                                                         ---- -------------                                  -==HHHHHHHHHHHHHHHHHH
+S                                                                                                                CCCCBCCCBBCBBBBBBB
+S                                                                                                                            VV    
+                                                                                                                                   
+S             ---------------------------------------=MOOOOOOOOOOOOOOOOOOOOOOI-------------------------------=AOOOOOOOOOOOOOOOOOOOO
+S                                                      -+++++++++++++++++++++                                  +++XXXXXXXXXXXXXXXXX
+S                                                       ********************                                   ********************
+S                                                        ...................                                   ....................
+S                                                         -----------------                                    -==HHHHHHHHHHHHHHHHH
+S                                                                                                                 CCCBCCBBBBBBBBBBB
+S                                                                                                                          V VV    
+                                                                                                                                   
+S             ---------------------------------------=AOOOOOOOOOOOOOOOOOOOOOX----------------------------------MOOOOOOOOOOOOOOOOOOO
+S                                                      -++++++++++++++++++++                                    ++XXXXXXXXXXXXXXXXX
+S                                                        *******************                                    *******************
+S                                                         .................                                     ...................
+S                                                         --=-------- ----                                      -=HHHHHHHHHHHHHHHHH
+S                                                                                                                 CCCCCBBBBBBBBBBBC
+S                                                                                                                          VV  VV  
+                                                                                                                                   
+S             ---------------------------------------=MOOOOOOOOOOOOOOOOOOOOO=-----------------------------------MOOOOOOOOOOOOOOOOOO
+S                                                      -+++++++++++++++++++-                                     +++++XXXXXXXXXXXXX
+S                                                        ******************                                      ******************
+S                                                         .................                                      ..................
+S                                                         --=-------- ----                                       ----=HHHHHHHHHHHHH
+S                                                                                                                     CBBCBBBBBBBBB
+S                                                                                                                           V   VV 
+                                                                                                                                   
+S             ---------------------------------------)OOOOOOOOOOOOOOOOOOOOOI-------------------------------------+IZAOOOOOOOOOOOOOO
+S                                                     --+++++++++++++++++++                                          +XXXXXXXXXXXXX
+S                                                        *****************                                           **************
+S                                                         ................                                           ..............
+S                                                          --- --------                                              -HHHHHHHHHHHHH
+S                                                                                                                     CBBBBBBBBBBBB
+S                                                                                                                          V     V 
+                                                                                                                                   
+S             ---------------------------------------IOOOOOOOOOOOOOOOOOOOOA=---------------------------------------=+OOOOOOOOOOOOOO
+S                                                     --=+++++++++++++++++                                           ++XXXXXXXXXXXX
+S                                                        *****************                                           **************
+S                                                         .............                                              ..............
+S                                                          --- -------                                                =HHHHHHHHHHHH
+S                                                                                                                      BCBBBBBCCCBB
+S                                                                                                                           V      
+                                                                                                                                   
+S             ---------------------------------------IOOOOOOOOOOOOOOOOOOOO=-----------------------------------------=OOOOOOOOOOOOOO
+S                                                     --=++++++++++++++++-                                           -+XXXXXXXXXXXX
+S                                                         ***************                                             *************
+S                                                         ..............                                              .............
+S                                                         --- ----- -                                                 =HHHHHHHHHHHH
+S                                                                                                                      CBBBBBBCCCBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------IOOOOOOOOOOOOOOOOOOO+-------------------------------------------XOOOOOOOOOOOOO
+S                                                     --=+++++++++++++++=                                             ++XXXXXXXXXXX
+S                                                         **************                                              *************
+S                                                         ...........                                                 .............
+S                                                         ---- ---- -                                                 -=HHHHHHHHHHH
+S                                                                                                                       CBBBBBBBBBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------ZOOOOOOOOOOOOOOOOOOZ--------------------------------------------)OOOOOOOOOOOOO
+S                                                     --=+++++++++++++++                                              ++XXXXXXXXXXX
+S                                                         *************                                               *************
+S                                                         ............                                                 ............
+S                                                         -- -   -- -                                                  =HHHHHHHHHHH
+S                                                                                                                       CBCBBBBBBBB
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------ZOOOOOOOOOOOOOOOOOZ----------------------------------------------MOOOOOOOOOOOO
+S                                                     --+++++++++++++++                                                +XXXXXXXXXXX
+S                                                         ************                                                 ************
+S                                                         ...........                                                  ............
+S                                                          -     -  -                                                  -HHHHHHHHHHH
+S                                                                                                                       CCCCBBBBBBC
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------ZOOOOOOOOOOOOOOOOI-----------------------------------------------+OOOOOOOOOOOO
+S                                                     --+++++++++++++=                                                 ++XXXXXXXXXX
+S                                                        ************                                                   ***********
+S                                                         ...    ...                                                    ...........
+S                                                                 -                                                     =HHHHHHHHHH
+S                                                                                                                        CCCCBBBCBC
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------ZOOOOOOOOOOOOOOO)-------------------------------------------------ZOOOOOOOOOOO
+S                                                     =+++++++++++++-                                                   ++XXXXXXXXX
+S                                                        ***********                                                    ***********
+S                                                           ..   ..                                                     ...........
+S                                                                                                                       -=HHHHHHHHH
+S                                                                                                                         CBCCBBCCC
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------ZOOOOOOOOOOOOOX=--------------------------------------------------=AOOOOOOOOOO
+S                                                     =+++++++++++-                                                      +XXXXXXXXX
+S                                                        * ******                                                        **********
+S                                                           ..                                                           ..........
+S                                                                                                                        -HHHHHHHHH
+S                                                                                                                         CBCBBCCBC
+S                                                                                                                                  
+                                                                                                                                   
+S             ---------------------------------------IOOOOOOOOOOOX+-----------------------------------------------------=OOOOOOOOOO
+S                                                     -====+++++-                                                        =+XXXXXXXX
+S                                                           ***                                                           *********
+S                                                           ..                                                            .........
+S                                                                                                                         =HHHHHHHH
+S                                                                                                                          CCBBBBBC
+S                                                                                                                                  
+                                                                                                                                   
+Processing date = 04/17/15, Time = 15:30:45 File = C:\1401Pictures\Stan Paddock\StanPaddock.raw                                     
