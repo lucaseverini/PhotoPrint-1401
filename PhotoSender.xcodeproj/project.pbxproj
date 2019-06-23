@@ -41,6 +41,40 @@
 		81EBF5431AF159F800EFDCF8 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 81EBF53F1AF159F800EFDCF8 /* SVProgressHUD.bundle */; };
 		81EBF5441AF159F800EFDCF8 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF5411AF159F800EFDCF8 /* SVProgressHUD.m */; };
 		81EBF5481AF1635D00EFDCF8 /* DefaultSettings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81EBF5471AF1635D00EFDCF8 /* DefaultSettings.plist */; };
+		D32F7CA622BFF5200035709F /* GCDAsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 813589381B167C4300F89953 /* GCDAsyncSocket.m */; };
+		D32F7CA722BFF5200035709F /* UIImage+FixOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987CA51AEF470A008F71C1 /* UIImage+FixOrientation.m */; };
+		D32F7CA822BFF5200035709F /* HSK_CFUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF52D1AF1421500EFDCF8 /* HSK_CFUtilities.m */; };
+		D32F7CA922BFF5200035709F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D32731AE9DE1700786D4C /* AppDelegate.m */; };
+		D32F7CAA22BFF5200035709F /* UIImage+RoundedCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987CAB1AEF470A008F71C1 /* UIImage+RoundedCorner.m */; };
+		D32F7CAB22BFF5200035709F /* GKImagePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987C9E1AEF46EB008F71C1 /* GKImagePicker.m */; };
+		D32F7CAC22BFF5200035709F /* GCDAsyncUdpSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 8135893A1B167C4300F89953 /* GCDAsyncUdpSocket.m */; };
+		D32F7CAD22BFF5200035709F /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF53E1AF159F800EFDCF8 /* SVIndefiniteAnimatedView.m */; };
+		D32F7CAE22BFF5200035709F /* PreviewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987C8E1AEF43EB008F71C1 /* PreviewView.m */; };
+		D32F7CAF22BFF5200035709F /* NSStream+SKPSMTPExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF5311AF1421500EFDCF8 /* NSStream+SKPSMTPExtensions.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		D32F7CB022BFF5200035709F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 816D32701AE9DE1700786D4C /* main.m */; };
+		D32F7CB122BFF5200035709F /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF5411AF159F800EFDCF8 /* SVProgressHUD.m */; };
+		D32F7CB222BFF5200035709F /* UIImage+Resize.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987CA71AEF470A008F71C1 /* UIImage+Resize.m */; };
+		D32F7CB322BFF5200035709F /* Base64Transcoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF52B1AF1421500EFDCF8 /* Base64Transcoder.m */; };
+		D32F7CB422BFF5200035709F /* GKImageCropper.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987C9C1AEF46EB008F71C1 /* GKImageCropper.m */; };
+		D32F7CB522BFF5200035709F /* TextImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987C901AEF43EB008F71C1 /* TextImageView.m */; };
+		D32F7CB622BFF5200035709F /* ImageHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 818574F51AEF49C2007A2E40 /* ImageHelper.m */; };
+		D32F7CB722BFF5200035709F /* PreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987C8B1AEF43EB008F71C1 /* PreviewController.m */; };
+		D32F7CB822BFF5200035709F /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 81987C841AEF43D7008F71C1 /* ViewController.mm */; };
+		D32F7CB922BFF5200035709F /* UIImage+Rotate.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987CA91AEF470A008F71C1 /* UIImage+Rotate.m */; };
+		D32F7CBA22BFF5200035709F /* NetComm.m in Sources */ = {isa = PBXBuildFile; fileRef = 813589341B167A7E00F89953 /* NetComm.m */; };
+		D32F7CBB22BFF5200035709F /* NSData+Base64Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF52F1AF1421500EFDCF8 /* NSData+Base64Additions.m */; };
+		D32F7CBC22BFF5200035709F /* UIImage+Alpha.m in Sources */ = {isa = PBXBuildFile; fileRef = 81987CA31AEF470A008F71C1 /* UIImage+Alpha.m */; };
+		D32F7CBD22BFF5200035709F /* SKPSMTPMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 81EBF5331AF1421500EFDCF8 /* SKPSMTPMessage.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		D32F7CBE22BFF5200035709F /* PicToPrint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81987C881AEF43EB008F71C1 /* PicToPrint.cpp */; };
+		D32F7CC022BFF5200035709F /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81E0768C1B16C3C10010DA4E /* Crashlytics.framework */; };
+		D32F7CC122BFF5200035709F /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 818574F91AEF56A1007A2E40 /* MessageUI.framework */; };
+		D32F7CC222BFF5200035709F /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81E0768D1B16C3C10010DA4E /* Fabric.framework */; };
+		D32F7CC422BFF5200035709F /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 81EBF53F1AF159F800EFDCF8 /* SVProgressHUD.bundle */; };
+		D32F7CC522BFF5200035709F /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 81EBF53A1AF1484300EFDCF8 /* Settings.bundle */; };
+		D32F7CC622BFF5200035709F /* PreviewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 818574EF1AEF4783007A2E40 /* PreviewController.xib */; };
+		D32F7CC722BFF5200035709F /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 818574F01AEF4783007A2E40 /* ViewController.xib */; };
+		D32F7CC822BFF5200035709F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 816D327B1AE9DE1700786D4C /* Images.xcassets */; };
+		D32F7CC922BFF5200035709F /* DefaultSettings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81EBF5471AF1635D00EFDCF8 /* DefaultSettings.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -106,6 +140,7 @@
 		81EBF5401AF159F800EFDCF8 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SVProgressHUD.h; path = SVProgressHUD/SVProgressHUD.h; sourceTree = SOURCE_ROOT; };
 		81EBF5411AF159F800EFDCF8 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SVProgressHUD.m; path = SVProgressHUD/SVProgressHUD.m; sourceTree = SOURCE_ROOT; };
 		81EBF5471AF1635D00EFDCF8 /* DefaultSettings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DefaultSettings.plist; sourceTree = "<group>"; };
+		D32F7CCF22BFF5200035709F /* IBM 1401 Photo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IBM 1401 Photo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +151,16 @@
 				81E0768E1B16C3C10010DA4E /* Crashlytics.framework in Frameworks */,
 				818574FA1AEF56A1007A2E40 /* MessageUI.framework in Frameworks */,
 				81E0768F1B16C3C10010DA4E /* Fabric.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32F7CBF22BFF5200035709F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32F7CC022BFF5200035709F /* Crashlytics.framework in Frameworks */,
+				D32F7CC122BFF5200035709F /* MessageUI.framework in Frameworks */,
+				D32F7CC222BFF5200035709F /* Fabric.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +192,7 @@
 			isa = PBXGroup;
 			children = (
 				816D326B1AE9DE1700786D4C /* IBM 1401 Photo.app */,
+				D32F7CCF22BFF5200035709F /* IBM 1401 Photo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -313,7 +359,6 @@
 				816D32681AE9DE1700786D4C /* Frameworks */,
 				816D32691AE9DE1700786D4C /* Resources */,
 				812598131AF5C3340090162C /* Set App and Build Version */,
-				816D32951AE9ED8700786D4C /* Crashlytics */,
 			);
 			buildRules = (
 			);
@@ -322,6 +367,25 @@
 			name = "1401 PhotoSender";
 			productName = PhotoSender;
 			productReference = 816D326B1AE9DE1700786D4C /* IBM 1401 Photo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D32F7CA422BFF5200035709F /* 1401 PhotoSender Fabric */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D32F7CCC22BFF5200035709F /* Build configuration list for PBXNativeTarget "1401 PhotoSender Fabric" */;
+			buildPhases = (
+				D32F7CA522BFF5200035709F /* Sources */,
+				D32F7CBF22BFF5200035709F /* Frameworks */,
+				D32F7CC322BFF5200035709F /* Resources */,
+				D32F7CCA22BFF5200035709F /* Set App and Build Version */,
+				D32F7CCB22BFF5200035709F /* Fabric */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "1401 PhotoSender Fabric";
+			productName = PhotoSender;
+			productReference = D32F7CCF22BFF5200035709F /* IBM 1401 Photo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -335,6 +399,9 @@
 				TargetAttributes = {
 					816D326A1AE9DE1700786D4C = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = U6W9597P4R;
+					};
+					D32F7CA422BFF5200035709F = {
 						DevelopmentTeam = 8AHU7FXBZD;
 					};
 				};
@@ -344,6 +411,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -353,6 +421,7 @@
 			projectRoot = "";
 			targets = (
 				816D326A1AE9DE1700786D4C /* 1401 PhotoSender */,
+				D32F7CA422BFF5200035709F /* 1401 PhotoSender Fabric */,
 			);
 		};
 /* End PBXProject section */
@@ -368,6 +437,19 @@
 				818574F31AEF4783007A2E40 /* ViewController.xib in Resources */,
 				816D327C1AE9DE1700786D4C /* Images.xcassets in Resources */,
 				81EBF5481AF1635D00EFDCF8 /* DefaultSettings.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32F7CC322BFF5200035709F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32F7CC422BFF5200035709F /* SVProgressHUD.bundle in Resources */,
+				D32F7CC522BFF5200035709F /* Settings.bundle in Resources */,
+				D32F7CC622BFF5200035709F /* PreviewController.xib in Resources */,
+				D32F7CC722BFF5200035709F /* ViewController.xib in Resources */,
+				D32F7CC822BFF5200035709F /* Images.xcassets in Resources */,
+				D32F7CC922BFF5200035709F /* DefaultSettings.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -388,19 +470,33 @@
 			shellPath = /bin/sh;
 			shellScript = "#!/bin/bash\n#\n# AddVersionNumber.sh\n# PhotoSender\n#\n# Created by Luca Severini on 3/16/15.\n# Copyright (c) 2015 Sommly Inc. All rights reserved.\n#\n# This script must be executed in the build phase after the Copy Resources phase\n#\n\nSETTINGS_PLIST=\"$BUILT_PRODUCTS_DIR\"/\"$EXECUTABLE_FOLDER_PATH\"/Settings.bundle/Root.plist\nINFO_PLIST=\"$BUILT_PRODUCTS_DIR\"/\"$INFOPLIST_PATH\"\n\n# Set the short bundle version from info plist\nbundleShortVersion=`/usr/libexec/PlistBuddy -c \"Print :CFBundleShortVersionString\" \"$INFO_PLIST\"`\n\n# Set the bundle version from info plist keeping only the first word (remove the build number)\nbundleVersion=`/usr/libexec/PlistBuddy -c \"Print :CFBundleVersion\" \"$INFO_PLIST\" | awk '{print $1;}'`\n\n# Set build revision using git amount of commits\nbuildRevision=$(git rev-list HEAD | wc | awk {'print $1'})\n\n# Set build date to current date\nbuildDate=`date \"+%b %d %Y %l:%M %p\"`\n\n# Set app version to bundle version + build revision\nappVersion=`echo $bundleVersion \"(build \"$buildRevision\")\"`\n\n# Set build version to date build and build revision\nbuildVersion=`echo \"Build \"$buildRevision \" - \" $buildDate`\n\n// Print the variables\necho \"bundleVersion: \" $bundleVersion\necho \"bundleShortVersion: \" $bundleShortVersion\necho \"buildRevision: \" $buildRevision\necho \"buildDate: \" $buildDate\necho \"appVersion: \" $appVersion\necho \"buildVersion: \" $buildVersion\n\n# Set the string in System Settings bundle plist\n# /usr/libexec/PlistBuddy -c \"Set :PreferenceSpecifiers:1:Title $appVersion\" \"$SETTINGS_PLIST\"\n/usr/libexec/PlistBuddy -c \"Set :PreferenceSpecifiers:1:Title $buildVersion\" \"$SETTINGS_PLIST\"\n\n# Set the string in application bundle info plist\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $appVersion\" \"$INFO_PLIST\"\n/usr/libexec/PlistBuddy -c \"Set :CFBundleBuildVersion $buildVersion\" \"$INFO_PLIST\"\n";
 		};
-		816D32951AE9ED8700786D4C /* Crashlytics */ = {
+		D32F7CCA22BFF5200035709F /* Set App and Build Version */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = Crashlytics;
+			name = "Set App and Build Version";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "./Crashlytics/Fabric.framework/run 88c9c4ad4fc9cf683851e90309df86b88651c49c 2bc062171219f05fd5d99e9670ef9f9f588f7ab7fbcc98eb0d112e3169234a7a";
+			shellScript = "#!/bin/bash\n#\n# AddVersionNumber.sh\n# PhotoSender\n#\n# Created by Luca Severini on 3/16/15.\n# Copyright (c) 2015 Sommly Inc. All rights reserved.\n#\n# This script must be executed in the build phase after the Copy Resources phase\n#\n\nSETTINGS_PLIST=\"$BUILT_PRODUCTS_DIR\"/\"$EXECUTABLE_FOLDER_PATH\"/Settings.bundle/Root.plist\nINFO_PLIST=\"$BUILT_PRODUCTS_DIR\"/\"$INFOPLIST_PATH\"\n\n# Set the short bundle version from info plist\nbundleShortVersion=`/usr/libexec/PlistBuddy -c \"Print :CFBundleShortVersionString\" \"$INFO_PLIST\"`\n\n# Set the bundle version from info plist keeping only the first word (remove the build number)\nbundleVersion=`/usr/libexec/PlistBuddy -c \"Print :CFBundleVersion\" \"$INFO_PLIST\" | awk '{print $1;}'`\n\n# Set build revision using git amount of commits\nbuildRevision=$(git rev-list HEAD | wc | awk {'print $1'})\n\n# Set build date to current date\nbuildDate=`date \"+%b %d %Y %l:%M %p\"`\n\n# Set app version to bundle version + build revision\nappVersion=`echo $bundleVersion \"(build \"$buildRevision\")\"`\n\n# Set build version to date build and build revision\nbuildVersion=`echo \"Build \"$buildRevision \" - \" $buildDate`\n\n// Print the variables\necho \"bundleVersion: \" $bundleVersion\necho \"bundleShortVersion: \" $bundleShortVersion\necho \"buildRevision: \" $buildRevision\necho \"buildDate: \" $buildDate\necho \"appVersion: \" $appVersion\necho \"buildVersion: \" $buildVersion\n\n# Set the string in System Settings bundle plist\n# /usr/libexec/PlistBuddy -c \"Set :PreferenceSpecifiers:1:Title $appVersion\" \"$SETTINGS_PLIST\"\n/usr/libexec/PlistBuddy -c \"Set :PreferenceSpecifiers:1:Title $buildVersion\" \"$SETTINGS_PLIST\"\n\n# Set the string in application bundle info plist\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $appVersion\" \"$INFO_PLIST\"\n/usr/libexec/PlistBuddy -c \"Set :CFBundleBuildVersion $buildVersion\" \"$INFO_PLIST\"\n";
+		};
+		D32F7CCB22BFF5200035709F /* Fabric */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = Fabric;
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "./Crashlytics/Fabric.framework/run 88c9c4ad4fc9cf683851e90309df86b88651c49c 2bc062171219f05fd5d99e9670ef9f9f588f7ab7fbcc98eb0d112e3169234a7a\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -434,6 +530,38 @@
 				81987CAC1AEF470A008F71C1 /* UIImage+Alpha.m in Sources */,
 				81EBF5381AF1421500EFDCF8 /* SKPSMTPMessage.m in Sources */,
 				81987C911AEF43EB008F71C1 /* PicToPrint.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32F7CA522BFF5200035709F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32F7CA622BFF5200035709F /* GCDAsyncSocket.m in Sources */,
+				D32F7CA722BFF5200035709F /* UIImage+FixOrientation.m in Sources */,
+				D32F7CA822BFF5200035709F /* HSK_CFUtilities.m in Sources */,
+				D32F7CA922BFF5200035709F /* AppDelegate.m in Sources */,
+				D32F7CAA22BFF5200035709F /* UIImage+RoundedCorner.m in Sources */,
+				D32F7CAB22BFF5200035709F /* GKImagePicker.m in Sources */,
+				D32F7CAC22BFF5200035709F /* GCDAsyncUdpSocket.m in Sources */,
+				D32F7CAD22BFF5200035709F /* SVIndefiniteAnimatedView.m in Sources */,
+				D32F7CAE22BFF5200035709F /* PreviewView.m in Sources */,
+				D32F7CAF22BFF5200035709F /* NSStream+SKPSMTPExtensions.m in Sources */,
+				D32F7CB022BFF5200035709F /* main.m in Sources */,
+				D32F7CB122BFF5200035709F /* SVProgressHUD.m in Sources */,
+				D32F7CB222BFF5200035709F /* UIImage+Resize.m in Sources */,
+				D32F7CB322BFF5200035709F /* Base64Transcoder.m in Sources */,
+				D32F7CB422BFF5200035709F /* GKImageCropper.m in Sources */,
+				D32F7CB522BFF5200035709F /* TextImageView.m in Sources */,
+				D32F7CB622BFF5200035709F /* ImageHelper.m in Sources */,
+				D32F7CB722BFF5200035709F /* PreviewController.m in Sources */,
+				D32F7CB822BFF5200035709F /* ViewController.mm in Sources */,
+				D32F7CB922BFF5200035709F /* UIImage+Rotate.m in Sources */,
+				D32F7CBA22BFF5200035709F /* NetComm.m in Sources */,
+				D32F7CBB22BFF5200035709F /* NSData+Base64Additions.m in Sources */,
+				D32F7CBC22BFF5200035709F /* UIImage+Alpha.m in Sources */,
+				D32F7CBD22BFF5200035709F /* SKPSMTPMessage.m in Sources */,
+				D32F7CBE22BFF5200035709F /* PicToPrint.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -535,14 +663,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8AHU7FXBZD;
+				DEVELOPMENT_TEAM = U6W9597P4R;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Crashlytics",
 				);
 				INFOPLIST_FILE = PhotoSender/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lucaseverini.1401-photosender";
 				PRODUCT_NAME = "IBM 1401 Photo";
@@ -556,6 +684,27 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = U6W9597P4R;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Crashlytics",
+				);
+				INFOPLIST_FILE = PhotoSender/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lucaseverini.1401-photosender";
+				PRODUCT_NAME = "IBM 1401 Photo";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		D32F7CCD22BFF5200035709F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = 8AHU7FXBZD;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -563,7 +712,28 @@
 					"$(PROJECT_DIR)/Crashlytics",
 				);
 				INFOPLIST_FILE = PhotoSender/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lucaseverini.1401-photosender";
+				PRODUCT_NAME = "IBM 1401 Photo";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		D32F7CCE22BFF5200035709F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 8AHU7FXBZD;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Crashlytics",
+				);
+				INFOPLIST_FILE = PhotoSender/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lucaseverini.1401-photosender";
 				PRODUCT_NAME = "IBM 1401 Photo";
@@ -588,6 +758,15 @@
 			buildConfigurations = (
 				816D328F1AE9DE1700786D4C /* Debug */,
 				816D32901AE9DE1700786D4C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D32F7CCC22BFF5200035709F /* Build configuration list for PBXNativeTarget "1401 PhotoSender Fabric" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32F7CCD22BFF5200035709F /* Debug */,
+				D32F7CCE22BFF5200035709F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

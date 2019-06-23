@@ -66,6 +66,9 @@ static AppDelegate *delegate;
 		[mutDict setObject:@(YES) forKey:@"DefaultSettingsSet"];
 		[mutDict writeToURL:defaultPrefsFile atomically:NO];
 	}
+    
+    // Let the user see the IBM1401 console...
+    [NSThread sleepForTimeInterval:2.0];
 
 	self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.viewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
